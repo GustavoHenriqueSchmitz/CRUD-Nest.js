@@ -13,7 +13,7 @@ CRUD made in nest.js.
 git clone https://github.com/GustavoHenriqueSchmitz/CRUD-Nest.js.git
 ```
 
-**2 -** Open a terminal, access the root directory of the project and execute:
+**2 -** Open a terminal, access the root directory of the project and run:
 ```
 npm i
 ```
@@ -21,12 +21,12 @@ npm i
 **3 -** Install [docker-compose](https://docs.docker.com/compose/install/)
 
 ## Running the app
-**1 -** Open a terminal and execute:
+**1 -** Open a terminal and run:
 ```
 docker-compose up
 ```
 
-**2 -** Open another terminal, access the root directory and execute:
+**2 -** Open another terminal, access the root directory and run:
 ```bash
 npm run start
 ```
